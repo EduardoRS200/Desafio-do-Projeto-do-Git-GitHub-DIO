@@ -1,8 +1,8 @@
-Projeto para consolida toda a parte teorica da aula sobre o Git/GitHub.
+Projeto para consolida toda a parte teórica da aula sobre o Git/GitHub.
 
 O anotações voltada para organizar os projetos do dias a dia.
 
-Tabelas de horas dos estudos diarios.
+Tabelas de horas dos estudos diários.
 
 Amanhã das 8:00 às 11:00, de segunda a sexta.
 Finais de semanas disponivel, sem horás limites.
